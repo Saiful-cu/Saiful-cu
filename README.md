@@ -1,6 +1,18 @@
 - 👋 Hi, I’m @Saiful-cu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in 
+      - Data Science
+      - Machine Learning
+      - AI
+      - Competetive Programming
+      - Python 
+      - JavaScript
+      
+- 🌱 I’m currently learning 
+      - AI
+      - Python Libary 
+      - Competetive Programming 
+      - JavaScript
+      
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
