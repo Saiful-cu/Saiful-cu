@@ -5,9 +5,54 @@
 <br>
 
 
-- 🌱 I’m currently learning **Test Automation**
+🔭 I’m currently working on Manual Testing
 
-- 📫 How to reach me **Saiful.cu.19@gmail.com**
+🌱 I’m currently learning Automation Testing
+
+💬 Ask me about Software QA, Manual testing, API testing, Performance testing, Database testing, Automation testing
+
+📫 How to reach me You can send me email : Saiful.cu.19@gmail.com
+
+
+👉 Check out all my projects [https://github.com/Saiful-cu?tab=repositories]
+
+⚡ Fun fact I think i have a good sense of humor
+
+<h3> Skills & Proficiencies </h3>
+
+📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
+
+📗 Performance Testing Tool: 
+
+📗 API Testing Tool: Postman
+
+📗 Security Testing Tool: 
+
+📗 Project Management Tool: Jira
+
+📗 Database Tool: MySql
+
+📗 Software Development concepts: SDLC, STLC
+
+📗 Web Automation Tool: Cypress
+
+📗 Mobile Automation Tool: 
+
+📗 BDD Tool: 
+
+📗 CI / CD Tool: 
+
+📗 IDE: Intellij, Eclipse,VScode
+
+📗 Source and version control Tool: Git
+
+📗 Programming Language: Java,C,C++, JavaScript, HTML, CSS,python
+
+📗 Agile Methodology & Project Management: Jira
+
+📗 Operating System: Windows, MacOS
+
+📚 Concepts: OOP, SDLC, STLC
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
