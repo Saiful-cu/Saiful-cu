@@ -74,8 +74,7 @@
 
 <br>
 
-<div display="flex", justify-content="space-evenly"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saiful-cu&show_icons=true&locale=en" alt="saiful-cu" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiful-cu&show_icons=true&locale=en&layout=compact" alt="saiful-cu" /></div>
+
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiful-cu&" alt="saiful-cu" /></p>
