@@ -72,11 +72,40 @@
        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&nbsp;&nbsp;  &nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>&nbsp;&nbsp;  
 </p>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+<div style="display: flex; justify-content: space-between;">
+  
+  <!-- GitHub Stats -->
+  <a href="https://github-readme-stats.vercel.app/api?username=saiful-cu&show_icons=true&locale=en" target="_blank" title="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=saiful-cu&show_icons=true&locale=en" alt="saiful-cu GitHub Stats" style="height: 200px;"/>
+  </a>
+  
+  <!-- Top Languages -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=saiful-cu&show_icons=true&locale=en&layout=compact" target="_blank" title="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saiful-cu&show_icons=true&locale=en&layout=compact" alt="saiful-cu Top Languages" style="height: 200px;"/>
+  </a>
+
+</div>
+
 <br>
 
+<!-- GitHub Streak Stats -->
+<div align="left">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=saiful-cu" target="_blank" title="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiful-cu" alt="saiful-cu GitHub Streak" style="height: 200px;" />
+  </a>
+</div>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiful-cu&" alt="saiful-cu" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiful-cu&label=Profile%20views&color=0e75b6&style=flat" alt="saiful-cu" /> </p>
+<!-- Profile Views -->
+<div align="left">
+  <p align="left" title="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=saiful-cu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</div>
