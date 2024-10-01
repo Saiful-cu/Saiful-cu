@@ -34,7 +34,7 @@
 
 📗 Software Development concepts: SDLC, STLC
 
-📗 Web Automation Tool: Selenium
+📗 Web Automation Tool: Selenium, WebdriverIO (Begainner)
 
 📗 Mobile Automation Tool: 
 
