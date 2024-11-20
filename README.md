@@ -27,8 +27,6 @@
 
 📗 API Testing Tool: Postman
 
-📗 Security Testing Tool: 
-
 📗 Project Management Tool: Jira
 
 📗 Database Tool: MySql
@@ -37,17 +35,11 @@
 
 📗 Web Automation Tool: Selenium, WebdriverIO (Begainner)
 
-📗 Mobile Automation Tool: 
-
-📗 BDD Tool: 
-
-📗 CI / CD Tool: 
-
 📗 IDE: Intellij, Eclipse,VScode
 
 📗 Source and version control Tool: Git
 
-📗 Programming Language: Java,C,C++, JavaScript, HTML, CSS,python
+📗 Programming Language: JavaScript,Java,C,C++
 
 📗 Agile Methodology & Project Management: Jira
 
