@@ -31,21 +31,16 @@
 
 📗 Database Tool: MySql
 
-📗 Software Development concepts: SDLC, STLC
+📗 Web Automation Tool: Selenium, WebdriverIO 
 
-📗 Web Automation Tool: Selenium, WebdriverIO (Begainner)
-
-📗 IDE: Intellij, Eclipse,VScode
+📗 IDE: Intellij, VScode
 
 📗 Source and version control Tool: Git
 
 📗 Programming Language: JavaScript,Java,C,C++
 
-📗 Agile Methodology & Project Management: Jira
-
 📗 Operating System: Windows, MacOS
 
-📚 Concepts: OOP, SDLC, STLC
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
