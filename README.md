@@ -37,6 +37,8 @@
 
 📗 BDD: Cucumber, Gherkin
 
+📗 CI/CD: Jenkins
+
 📗 Source and version control Tool: Git
 
 📗 Programming Language: JavaScript,Java,C,C++
