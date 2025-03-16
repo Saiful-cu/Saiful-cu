@@ -35,6 +35,8 @@
 
 📗 IDE: Intellij, VScode
 
+📗 BDD: Cucumber, Gherkin
+
 📗 Source and version control Tool: Git
 
 📗 Programming Language: JavaScript,Java,C,C++
