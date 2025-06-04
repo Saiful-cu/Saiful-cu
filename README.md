@@ -5,9 +5,9 @@
 <br>
 
 
-🔭 I’m currently working on Manual Testing
+🔭 I’m currently working on Manual And Automation Testing
 
-🌱 I’m currently learning Automation Testing
+🌱 I’m currently learning API Automation Testing
 
 💬 Ask me about Software QA, Manual testing, API testing, Performance testing, Database testing, Automation testing
 
