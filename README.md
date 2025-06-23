@@ -13,7 +13,7 @@
 
 📫 How to reach me You can send me email : Saiful.cu.19@gmail.com
 
-📄 You can view my detailed [CV](https://github.com/Saiful-cu/Saiful-cu/blob/main/Saiful_Islam_SQA%20.pdf)
+📄 You can view my detailed [CV](https://www.figma.com/proto/18e0tpwnlpg2H4xL9HlmLQ/CV---Resume?node-id=135-3&p=f&t=SDQxQXeQc4ohG7ef-0&scaling=contain&content-scaling=fixed&page-id=1%3A13)
 
 👉 Check out all my projects [https://github.com/Saiful-cu?tab=repositories]
 
